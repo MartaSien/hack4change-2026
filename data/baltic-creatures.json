@@ -1,0 +1,17 @@
+{
+    "zmieraczek": {
+        "name": "Zmieraczek Plażowy",
+        "info": "Objęty częściową ochroną w Polsce",
+        "dangers": "Sprzątanie plaż z kidziny, martwej materii organicznej"
+    },
+    "widlik": {
+        "name": "Widlik Zaostrzony",
+        "info": "Objęty ochroną ścisłą w Polsce",
+        "dangeres": "Jest wrażliwy na zanieczyszczenia wody"
+    },
+    "morszczyn": {
+        "name": "Morszczyn Pęcherzychowaty",
+        "info": "Objęty ścisłą ochroną w Polsce", 
+        "dangers": "Zbyt mała przejrzystość wody spowodowana procesem eutrofizacji"
+    }
+}
