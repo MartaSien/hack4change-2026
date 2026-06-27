@@ -1,20 +1,16 @@
-# E-Paper Image Sender - Python Dependencies
-# GUI Framework (usually included with Python)
-# tkinter - included with most Python installations
+# Baltic Creatures Display via MQTT - Python Dependencies
 
-# Image Processing
-Pillow>=9.0.0
+# MQTT Protocol Client
+paho-mqtt>=1.6.1
 
-# Serial Communication
-pyserial>=3.4
+# GUI Framework (included with most Python installations)
+# tkinter - included with Python standard library
 
-# Threading support (built-in with Python)
+# JSON support (built-in)
+# json - included with Python standard library
+
+# Threading support (built-in)
 # threading - included with Python standard library
 
-# Time utilities (built-in with Python)
+# Time utilities (built-in)
 # time - included with Python standard library
-
-# Additional useful packages for development/debugging (optional)
-# Uncomment if needed for development:
-# matplotlib>=3.5.0  # For additional image analysis
-# numpy>=1.21.0      # For advanced image processing
